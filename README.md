@@ -33,7 +33,7 @@ Understanding customer purchasing behaviour is essential for improving customer 
 
 ## Dataset
 
-The dataset contains customer information collected from a bookstore, including customer demographics, purchasing behaviour, engagement metrics, store information, and customer service records.
+The dataset contains customer information collected from a bookstore, including purchasing behaviour, engagement metrics, store information, and customer service records.
 
 ### Target Variable
 
